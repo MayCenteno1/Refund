@@ -40,7 +40,7 @@ form.onsubmit = (event) => {
 
   expenseAdd(newExpense);
 
-  //limpa formulário e foca
+  // ✅ limpa formulário e foca
   clearForm();
 };
 
